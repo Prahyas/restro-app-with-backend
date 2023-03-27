@@ -1,3 +1,5 @@
+#note: just for demo purpose.
+
 HOW TO USE:
 1. click this link: https://restaurant-app-c1k0.onrender.com
 2. for admins 
