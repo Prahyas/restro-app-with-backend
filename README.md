@@ -12,6 +12,8 @@ HOW TO USE:
     
 3. explore the features
 
+<img width="960" alt="restroapp" src="https://user-images.githubusercontent.com/44996309/228005440-c4679437-20b6-437e-a770-2a31c6003d2a.png">
+
 Project Overview:
 A web-based Point of Sale (POS) system developed using React for small to medium-sized restaurants. The system provides features for managing tables, taking orders, online orders, account management, and generating invoices.
 
