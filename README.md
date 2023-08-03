@@ -1,4 +1,4 @@
-#note: just for demo purpose.
+#note: Just for demo purposes not a fully functional application. And Just wait for sometime for server to load.
 
 HOW TO USE:
 1. click this link: https://restaurant-app-c1k0.onrender.com
@@ -12,7 +12,6 @@ HOW TO USE:
     
 3. explore the features
 
-Note: Just wait for sometime for server to load.
 
 <img width="960" alt="restroapp" src="https://user-images.githubusercontent.com/44996309/228005440-c4679437-20b6-437e-a770-2a31c6003d2a.png">
 
