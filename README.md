@@ -12,6 +12,8 @@ HOW TO USE:
     
 3. explore the features
 
+Note: Just wait for sometime for server to load.
+
 <img width="960" alt="restroapp" src="https://user-images.githubusercontent.com/44996309/228005440-c4679437-20b6-437e-a770-2a31c6003d2a.png">
 
 Project Overview:
